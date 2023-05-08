@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><b><i>Kính gửi Phòng Bán hàng,</i><b></p>
+<p>Em xin gửi Anh/Chị Báo cáo bán hàng chi tiết trong 7 ngày vừa qua của Công ty. Báo cáo được gửi qua mail theo file đính kèm.</p>
+<p>Anh/Chị hãy kiểm tra báo cáo và các chứn từ hóa đơn liên quan.</p>
+<p>Hy vọng rằng chúng tôi sẽ nhận được phản hồi của Anh/Chị trong vòng 2 ngày kể từ thời điểm nhận mail. Nếu không Phòng kế toán sẽ
+mặc định báo cáo trên là đúng và đủ dữ liệu.</p>
+<p><b><i>Trân trọng,</i><b></p>
+<p>Phòng Kế toán</p>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<p><b><i>Kính gửi Quý Công ty/Khách hàng,</i><b></p>
+<p>Chúng tôi xin gửi Quý khách hàng Báo cáo bán hàng chi tiết trong 7 ngày vừa  qua. Báo cáo của Quý khách được gửi qua mail theo file đính kèm.</p>
+<p>Quý Khách hãy kiểm tra báo cáo và các chứng từ hóa đơn liên quan.</p>
+<p>Hy vọng rằng chúng tôi sẽ nhận được phản hồi của Quý khách trong vòng 2 ngày kể từ thời điểm nhận mail. Nếu không chúng tôi sẽ
+mặc định báo cáo trên là đúng và đủ dữ liệu.</p>
+<p><b><i>Xin trân trọng cảm ơn Quý khách đã sử dụng sản phẩm/dịch vụ của chúng tôi!</i><b></p>
+<p>Chi nhánh Công ty Ananas Việt Nam tại Hà Nội</p>
+</body>
+</html>

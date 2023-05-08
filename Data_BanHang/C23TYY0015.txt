@@ -1,0 +1,135 @@
+<HDon>
+	<DLHDon Id="0b5f67da-f5a0-414f-bf75-5f91f586138c">
+		<TTChung>
+			<PBan>2.0.0</PBan>
+			<THDon>Hóa đơn giá trị gia tăng</THDon>
+			<KHMSHDon>1</KHMSHDon>
+			<KHHDon>C23TYY</KHHDon>
+			<SHDon>0015</SHDon>
+			<NLap>2023-05-04</NLap>
+			<DVTTe>VND</DVTTe>
+			<TGia>1</TGia>
+			<HTTToan>Tiền mặt/Chuyển khoản</HTTToan>
+			<MSTTCGP>0101360697</MSTTCGP>
+		</TTChung>
+		<NDHDon>
+			<NBan>
+				<MaNBan>NV006</MaNBan>
+				<TenNBan>Nguyễn Xuân Tình</TenNBan>
+				<DonVi>CHI NHÁNH CÔNG TY ANANAS VIỆT NAM TẠI HÀ NỘI</DonVi>
+				<MST>2600109936</MST>
+				<DChi>Số 21 đường Phạm Hùng, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội</DChi>
+			</NBan>
+			<NMua>
+				<TenNMua></TenNMua>
+				<DonVi>CÔNG TY TNHH MỘT THÀNH VIÊN SÀI GÒN CO.OP HÀ NỘI</DonVi>
+				<MST>0104287703</MST>
+				<MaNMua>SAIGON_HN</MaNMua>
+				<DChi>Km số 10 đường Nguyễn Trãi, Phường Mộ Lao, Quận Hà Đông, Thành phố Hà Nội, Việt Nam</DChi>
+			</NMua>
+			<DSHHDVu>
+				<HHDVu>
+					<TChat>1</TChat>
+					<STT>1</STT>
+					<MHHDVu>HH0049</MHHDVu>
+					<THHDVu>Hộp 6 chai bia Trúc Bạch IPA Craft - HABECO (330ml/chai)</THHDVu>
+					<DVTinh>Hộp</DVTinh>
+					<SLuong>15</SLuong>
+					<DGia>486000</DGia>
+					<TLCKhau>0</TLCKhau>
+					<STCKhau>0</STCKhau>
+					<ThTien>7290000</ThTien>
+					<TSuat>10%</TSuat>
+				</HHDVu>
+			</DSHHDVu>
+			<TToan>
+				<THTTLTSuat>
+					<LTSuat>
+						<TSuat>10%</TSuat>
+						<ThTien>7290000</ThTien>
+						<TThue>729000</TThue>
+					</LTSuat>
+				</THTTLTSuat>
+				<TgTCThue>7290000</TgTCThue>
+				<TgTThue>729000</TgTThue>
+				<TTCKTMai>0</TTCKTMai>
+				<TgTTTBSo>8019000</TgTTTBSo>
+				<TgTTTBChu>Mười triệu bảy trăm linh ba nghìn chẵn./.</TgTTTBChu>
+			</TToan>
+		</NDHDon>
+	</DLHDon>
+	<MCCQT Id="Id-c692d34e1d444de294d6415aaf08f7c5">000353F72945DA4027B82CD938921E4B50</MCCQT>
+	<DSCKS>
+		<NBan>
+			<Signature
+				xmlns="http://www.w3.org/2000/09/xmldsig#">
+				<SignedInfo>
+					<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/>
+					<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+					<Reference URI="#0b5f67da-f5a0-414f-bf75-5f91f586138c">
+						<Transforms>
+							<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+						</Transforms>
+						<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+						<DigestValue>Zf+KQMNhefRnQXbVhMfq5zsjdqU=</DigestValue>
+					</Reference>
+					<Reference URI="#Timestamp">
+						<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+						<DigestValue>prigC2GotBxYz7+OIncSBgT1LaE=</DigestValue>
+					</Reference>
+				</SignedInfo>
+				<SignatureValue>rz8kN+YhyoUGZ3dG24XQkaUzmKR3QeDdza1PAApKsvChjh/yBp6fwaHraw3DiO7dWfg/7mstp7v1FOEdfyYjoXFhRqJFLDFDy5kBjwi/0+M16fiHaEp/w2/ausq33hYJsMm18JilWeiMnVMaOpB7WQJSxm/QjtfnQihO81DW8CA=</SignatureValue>
+				<KeyInfo>
+					<X509Data>
+						<X509SubjectName>UID=MST:0106777886, CN=CÔNG TY TNHH 678 HÀ NỘI, ST=Hà Nội, C=VN</X509SubjectName>
+						<X509Certificate>MIIEyDCCA7CgAwIBAgIQVAEBBz6LE769u2EE3gYLkDANBgkqhkiG9w0BAQsFADB1MQswCQYDVQQGEwJWTjEoMCYGA1UECgwfQ29uZyB0eSBjbyBwaGFuIGNodSBreSBzbyBWSSBOQTEoMCYGA1UECwwfQ29uZyB0eSBjbyBwaGFuIGNodSBreSBzbyBWSSBOQTESMBAGA1UEAwwJU21hcnRTaWduMB4XDTIyMDcyNTAzMTcwOVoXDTIzMDUyNTAzMTcwOVowZzELMAkGA1UEBhMCVk4xEjAQBgNVBAgMCUjDoCBO4buZaTEkMCIGA1UEAwwbQ8OUTkcgVFkgVE5ISCA2NzggSMOAIE7hu5hJMR4wHAYKCZImiZPyLGQBAQwOTVNUOjAxMDY3Nzc4ODYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAPZ/K73RWGuvIDLNBgj01Knz5zKZdLtRbnTS72bxT8jWvLSmChQUAMOEfq7BqrXvaD+ZD0xUWs07+BKxeZ60sHbd8M9/vI5bDliK6defxqnveujqiwBLW7OxzuMJ8Xyx4VlQ+xeO/dypayBmn8R7MAJ0baAVIA6zn4G3ZJIgCP+XAgMBAAGjggHkMIIB4DByBggrBgEFBQcBAQRmMGQwNQYIKwYBBQUHMAKGKWh0dHBzOi8vc21hcnRzaWduLmNvbS52bi9zbWFydHNpZ24yNTYuY3J0MCsGCCsGAQUFBzABhh9odHRwOi8vb2NzcDI1Ni5zbWFydHNpZ24uY29tLnZuMB0GA1UdDgQWBBRcMzL0UHT57DsU6epO0ZVpsSJgpjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFNAKWVIcyorACdIEKJLqk/vjQoYfMCgGCCsGAQUFBwEDBBwwGjAYBggrBgEFBQcLATAMBgorBgEEAYHtAwEHMIGRBgNVHSAEgYkwgYYwgYMGCisGAQQBge0DAQcwdTBKBggrBgEFBQcCAjA+HjwAVABoAGkAcwAgAGkAcwAgAGEAYwBjAHIAZQBkAGkAdABlAGQAIABjAGUAcgB0AGkAZgBpAGMAYQB0AGUwJwYIKwYBBQUHAgEWG2h0dHA6Ly9zbWFydHNpZ24uY29tLnZuL2NwczAvBgNVHR8EKDAmMCSgIqAghh5odHRwOi8vY3JsMjU2LnNtYXJ0c2lnbi5jb20udm4wDgYDVR0PAQH/BAQDAgPIMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDANBgkqhkiG9w0BAQsFAAOCAQEADBc195ZdWhIxgb0E41RTbKD4qT17EjgwCiYNfONDxQyVrWecpICQ6kb4lXOVToa5Lymo8mOqnMG7K0FBpBtpEaEggd9w6bpLjJokvm3KgVZ8SHO76tKujQWeR3PmUdCmlWxuVBMVx6eH+jlRlHi0uuR6JnqPa+gzC5zyqLSpBdUNs0nDF0ZuLPKPgovI4s66a3yytsYP6/cx7HX/dSgXxsn/CVb2QGuBlWn7qNmw58YrsvRiZDXMFZAcfbwtFe3RGAIrLJwuCGk7nSrkSfP0S3RByrP3jGIplZVkyOa9kuxdqYkWYZxJHR0/PF/eBG5FAYFYDJ+FCkOZUS3GvXRF7Q==</X509Certificate>
+					</X509Data>
+				</KeyInfo>
+				<Object Id="Timestamp">
+					<SignatureProperties>
+						<SignatureProperty Target="">
+							<SigningTime>2023-05-01T09:49:21</SigningTime>
+						</SignatureProperty>
+					</SignatureProperties>
+				</Object>
+			</Signature>
+		</NBan>
+		<NMua/>
+		<CCKSKhac/>
+		<CQT>
+			<Signature
+				xmlns="http://www.w3.org/2000/09/xmldsig#" Id="Tct-e0d3c3c01e0e45bfbbe1dd578cdd8aed">
+				<SignedInfo>
+					<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+					<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+					<Reference URI="#0b5f67da-f5a0-414f-bf75-5f91f586138c">
+						<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+						<DigestValue>++KjV7ZMnE6hj14wmt9hXVmn1pOCsDAXIid1kPuKvHs=</DigestValue>
+					</Reference>
+					<Reference URI="#SigningTime-7dfa70c7bee648fab071593ba21faf39">
+						<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+						<DigestValue>Yb7rLPukRbTYTnBbb+rG1gc4i5+9/H3x+qY8RUnNoAs=</DigestValue>
+					</Reference>
+					<Reference URI="#Id-c692d34e1d444de294d6415aaf08f7c5">
+						<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+						<DigestValue>8JF55IZ7usG6VqZ4+/d4ljR7rcYUlO/m8B5prc5q1Jo=</DigestValue>
+					</Reference>
+				</SignedInfo>
+				<SignatureValue>lE56IfgeB9Gs13diJgaFnAO/c36G+ORctjpzpKHgDlvjJD/Xy9v2WgQlme0/C7U/sMCgCdHIaVNjdpS72XMetfoL9MHa46t0LfspXAyQ6UmZHkP9+Tvx8IAXr5jH3Lhx0SNrKRJmPSazQPfHnAqZJ5EZraLnysAUBD9fx5Y0FD8oM5fVqyjGLCxxT42+QSJBVVdxOOHES4LllZ8MW9wDotPWLnTsw8HOZLVBRLdPPBf/IORnSKzN7UP33NM+V5jxD74t8WQ7awGqO+s4G4fMF+Lnq2GGhM230fTHRpZ07aiJDn3Dhr++UpoN1z7XUROSpiQDS4C5qZ9ftTy4UaMc2A==</SignatureValue>
+				<KeyInfo>
+					<X509Data>
+						<X509SubjectName>CN=TỔNG CỤC THUẾ,O=BỘ TÀI CHÍNH,L=Hà Nội,C=VN</X509SubjectName>
+						<X509Certificate>MIIF3jCCA8agAwIBAgIIdVgJVfyB1qcwDQYJKoZIhvcNAQELBQAwaTELMAkGA1UEBhMCVk4xIzAhBgNVBAoMGkJhbiBDxqEgeeG6v3UgQ2jDrW5oIHBo4bunMTUwMwYDVQQDDCxDQSBwaOG7pWMgduG7pSBjw6FjIGPGoSBxdWFuIE5ow6Agbsaw4bubYyBHMjAeFw0yMTExMTcwODA5MDBaFw0yNjExMTYwODA5MDBaMFoxCzAJBgNVBAYTAlZOMRIwEAYDVQQHDAlIw6AgTuG7mWkxGTAXBgNVBAoMEELhu5ggVMOASSBDSMONTkgxHDAaBgNVBAMME1Thu5RORyBD4bukQyBUSFXhur4wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC7nHwdxstlexFCsMFhLZMy6TZR1Epb0NfhhDTcjbG/a7fbGrvjxZHPXHtSNnnkpT3Pnl2SR870TFSCojqw6grK1NPsxzBA6RW5VMdmTjq7t/cGOz1TdXr9o+b1bXApmB0o5j1W+0IJS6ZC2BEGonfPbnKk6PyFvaPLgvutqT2GOzdtJ1kGXDN84bANDEJc6ltKSW7HIiDgm01BqkdxEJCQ12EW9HbMjioWllkyRxEIWXURV0+MgIFYn1vRFB129q+SIu8f98w1gvA258HVQ/rBCEaKe8a7MMt9/qUlh1HI+qLq4SWRZ7BMmUQ4GK4S/Ia6JqTK9hU+pxY9CfGb+OIrAgMBAAGjggGXMIIBkzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFFC+z6C96g+fTpEooyrrfO7wL8i6MGYGCCsGAQUFBwEBBFowWDAzBggrBgEFBQcwAoYnaHR0cDovL2NhLmdvdi52bi9wa2kvcHViL2NydC9jcGNhZzIuY3J0MCEGCCsGAQUFBzABhhVodHRwOi8vb2NzcC5jYS5nb3Yudm4wGgYDVR0RBBMwEYEPY250dEBnZHQuZ292LnZuMEoGA1UdIARDMEEwPwYIYIVAAQEBAQEwMzAxBggrBgEFBQcCARYlaHR0cHM6Ly9jYS5nb3Yudm4vcGtpL3B1Yi9wb2xpY2llcy9DUDApBgNVHSUEIjAgBggrBgEFBQcDAgYIKwYBBQUHAwQGCisGAQQBgjcUAgIwOAYDVR0fBDEwLzAtoCugKYYnaHR0cDovL2NhLmdvdi52bi9wa2kvcHViL2NybC9jcGNhZzIuY3JsMB0GA1UdDgQWBBQniiN6yqEnrwg8ldrPZoxUEI409DAOBgNVHQ8BAf8EBAMCBPAwDQYJKoZIhvcNAQELBQADggIBAF6Kki2pZb2cTPkHHPMi6FudEc9vTRrDZy4sh5xleTZM9SaV0OYz1CcgSQXforxajSf7+cyhRmiK6z4mdqv3w5mO+ESPDGFn/24L70iRp7LQtzoDWdN9reObuxfhDBLozBlTEJeka4ZCAo3CMn1Ldj5EtOrrUNvkt1waPk8eRrqjosRXzyw9/p5D5DaNr1cjrVe9mVoM7IHlFQ+7OtaRnEesjInqk25Xoj+kxRLFquZt9ZjcAWIdsgrkM/0OcsCtjtxvZtxUWufwM862BBNuDnHb9sDkSmF5LQ4FloFRQIeNJddOfgmgaY8UX37kmQAqv7KdmW2eClG93mPv3RsQhZPnTgQVmDgXr61OnAPdqTEpuJY1yXiei4Lwcultl9IuyeQjXDx8xE/oaQ2ubC8YXBNDRupggyfAoloUFXf/21uZQ8Rpm/P5TS1eOiDcA/ZVu9NBNyopwbrRpIHlgbf+IzQTun6ShkNZcbxlYfzDPBRa6jEkpDgjh/rXQqnYwBGzuY1UDNitHrX7gIPCnhmz6lL6x0kc6+V2+Bu+8IWw1Y+pRVMiNlVx39KtDKpssabt/HRoI92UHd5GyEGTSbzkztUFDieCs/KPtFZEsg30RnkHirk/k5nHRyAgpNtOdWWGFmh3QAaj0cZ9MZKJwLMzG2/QCOSaaP//1CGE2fM8hcgK</X509Certificate>
+					</X509Data>
+				</KeyInfo>
+				<Object Id="SigningTime-7dfa70c7bee648fab071593ba21faf39">
+					<SignatureProperties>
+						<SignatureProperty Target="signatureProperties">
+							<SigningTime>2023-03-30T09:49:48</SigningTime>
+						</SignatureProperty>
+					</SignatureProperties>
+				</Object>
+			</Signature>
+		</CQT>
+	</DSCKS>
+</HDon>

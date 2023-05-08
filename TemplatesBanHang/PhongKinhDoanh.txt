@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<p><b><i>Kính gửi Phòng Kinh doanh,</i><b></p>
+<p>Em xin gửi Anh/Chị Báo cáo Tổng hợp bán hàng theo mặt hàng trong 7 ngày vừa qua của Công ty. Báo cáo được gửi qua mail theo file đính kèm.</p>
+<p>Anh/Chị hãy kiểm tra báo cáo và hy vọng rằng sẽ nhận được phản hồi sớm của Anh/Chị.</p>
+<p><b><i>Trân trọng,</i><b></p>
+<p>Phòng Kế toán</p>
+</body>
+</html>
